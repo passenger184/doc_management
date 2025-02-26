@@ -20,7 +20,6 @@ python-bidi==0.6.3
 python-decouple==3.8
 python-http-client==3.3.7
 pytz==2024.2
-pywin32==308
 PyYAML==6.0.2
 regex==2024.11.6
 reportlab==4.2.5
